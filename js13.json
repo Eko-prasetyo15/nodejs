@@ -1,3 +1,21 @@
-{
-    
-}
+[
+   {
+      "task": "saya akan memasak",
+      "complete": true,
+      "tags": "x",
+      "tag": [
+         "masak",
+         "sayur"
+      ]
+   },
+   {
+      "task": "saya pergi ke sekolah",
+      "complete": false,
+      "tags": []
+   },
+   {
+      "task": "saya ke rubicamp",
+      "complete": false,
+      "tags": []
+   }
+]
